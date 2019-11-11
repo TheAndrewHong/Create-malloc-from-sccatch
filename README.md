@@ -1,14 +1,14 @@
-# Implementing memory allocators from Scatch
+# Implementing memory allocators from scatch
 
 The goal of this mini-project was to implement a simple memory allocator.
 
 It implements <a href="http://man7.org/linux/man-pages/man3/free.3.html">malloc()</a> and <a href="http://man7.org/linux/man-pages/man3/free.3.html">free()</a>.
 
 #### Compile and Run ####
-
 ```
 gcc malloc.c -o malloc && ./malloc
 ```
+
 #### Constraints ####
 
 The implementation has a huge constraint:
@@ -28,12 +28,12 @@ Questions to dive:
 
 
 #### References ####
-[Malloc tutorial](https://danluu.com/malloc-tutorial/)
+- [Malloc tutorial](https://danluu.com/malloc-tutorial/)
 
-[Implementing malloc and free](https://medium.com/@andrestc/implementing-malloc-and-free-ba7e7704a473)
+- [Implementing malloc and free](https://medium.com/@andrestc/implementing-malloc-and-free-ba7e7704a473)
 
-[How to write your own Malloc and Free using C?](http://tharikasblogs.blogspot.com/p/how-to-write-your-own-malloc-and-free.html)
+- [How to write your own Malloc and Free using C?](http://tharikasblogs.blogspot.com/p/how-to-write-your-own-malloc-and-free.html)
 
-[C Programming/stdlib.h/malloc](https://en.wikibooks.org/wiki/C_Programming/stdlib.h/malloc)
+- [C Programming/stdlib.h/malloc](https://en.wikibooks.org/wiki/C_Programming/stdlib.h/malloc)
 
-[Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
+- [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
