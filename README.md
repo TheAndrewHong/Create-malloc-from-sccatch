@@ -29,7 +29,11 @@ Questions to dive:
 
 #### References ####
 [Malloc tutorial](https://danluu.com/malloc-tutorial/)
+
 [Implementing malloc and free](https://medium.com/@andrestc/implementing-malloc-and-free-ba7e7704a473)
+
 [How to write your own Malloc and Free using C?](http://tharikasblogs.blogspot.com/p/how-to-write-your-own-malloc-and-free.html)
+
 [C Programming/stdlib.h/malloc](https://en.wikibooks.org/wiki/C_Programming/stdlib.h/malloc)
+
 [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
